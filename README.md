@@ -2,10 +2,9 @@
 
 This is a simple poker game website built using ReactJS. It allows users to play a basic version of poker in the browser.
 
-Demo:
+### Demo:
 You can check out a live demo of the website here: [Poker Website](https://project-series-f21.web.app/)
 
-Features:
 ### Betting System
 
 - The game features a chip-based betting system. Each player starts with a set amount of chips.
